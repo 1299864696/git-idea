@@ -5,6 +5,8 @@ package com.xkt.idea;
  */
 public class Idea {
 
+    public void test(){
 
+    }
 
 }
