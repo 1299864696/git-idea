@@ -5,8 +5,15 @@ package com.xkt.idea;
  */
 public class Idea {
 
+
     public void test(){
 
     }
+
+
+	public static void main(String[] args) {
+		
+		int a = 1;
+	}
 
 }
