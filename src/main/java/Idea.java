@@ -10,6 +10,11 @@ public class Idea {
         System.out.println("dev");
         System.out.println("dev");
 
+        System.out.println("mas");
+        System.out.println("mas");
+        System.out.println("mas");
+
+
 
     }
 
