@@ -7,6 +7,8 @@ public class Idea {
         
 
         System.out.println("mas");
+        System.out.println("mas");
+        System.out.println("mas");
 
 
 
